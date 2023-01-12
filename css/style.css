@@ -1,0 +1,89 @@
+.header{
+    background: #ffffff;
+}
+.banner{
+    background: #f9f9ff;
+}
+.banner-text{
+    padding-top: 200px;
+}
+.banner-button a{
+    background: #8490ff;
+    color: #ffffff;
+}
+.personal{
+    background: #ffffff;
+}
+.personal-details{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.programe{
+    background: #8490ff;
+}
+.programe-text h1{
+    color: #f9f9ff;
+    font-weight: 600;
+}
+.programe-text p{
+    color: white;
+}
+.card-body h2{
+    background: #f9f9ff;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.bondhon p{
+    text-transform: capitalize;
+    color: #999999 !important;
+    font-weight: 500;
+}
+.bondhon a{
+    text-decoration: none;
+    background: #ffffff;
+    border:1px solid #8490ff;
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: #8490ff;
+    margin: 20px 0px;
+}
+.bondhon{
+    border: none;
+}
+.subha{
+    background: #f9f9ff;
+}
+.website{
+    background: #ffffff;
+}
+.website img{
+    width: 100px;
+    height: auto;
+    margin-top: -80px;
+    margin-left: 15px;
+}
+.humyra{
+    margin-top: 100px;
+    border: none;
+}
+.foram{
+    background: #f9f9ff;
+}
+.field{
+    background: #ffffff;
+    padding: 0px 50px;
+}
+.last{
+    padding-top: 60px;
+    padding-left: 15px;
+}
+.last h3{
+    color: #303438;
+    padding-bottom: 5px;
+}
+.last h6{
+    color: #303438;
+    font-weight: 600;
+}
